@@ -131,3 +131,6 @@ dmypy.json
 .pyre/
 
 bin/
+courses/temp_audio_week_1.raw
+courses/temp_audio_week_2.raw
+courses/temp_audio_week_3.raw
